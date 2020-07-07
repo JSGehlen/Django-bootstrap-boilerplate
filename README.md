@@ -1,4 +1,4 @@
-# Django Boilerplate
+# Django Bootstrap Boilerplate
 
 This is a Bootstrap boilerplate I created for starting Bootstrap Django projects.
 
